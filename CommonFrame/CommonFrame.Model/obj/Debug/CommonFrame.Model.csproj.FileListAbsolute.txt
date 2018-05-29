@@ -1,0 +1,12 @@
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\CommonFrame.Model.dll.config
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\CommonFrame.Model.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\CommonFrame.Model.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\EntityFramework.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\EntityFramework.xml
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\obj\Debug\CommonFrame.Model.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\obj\Debug\CommonFrame.Model.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Model\obj\Debug\CommonFrame.Model.csprojResolveAssemblyReference.cache

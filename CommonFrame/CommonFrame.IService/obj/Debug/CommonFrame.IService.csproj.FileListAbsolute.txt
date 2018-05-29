@@ -1,0 +1,12 @@
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\CommonFrame.IService.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\CommonFrame.IService.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\CommonFrame.IRepository.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\CommonFrame.Model.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\EntityFramework.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\CommonFrame.IRepository.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\CommonFrame.Model.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\EntityFramework.xml
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\obj\Debug\CommonFrame.IService.csprojResolveAssemblyReference.cache
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\obj\Debug\CommonFrame.IService.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IService\obj\Debug\CommonFrame.IService.pdb

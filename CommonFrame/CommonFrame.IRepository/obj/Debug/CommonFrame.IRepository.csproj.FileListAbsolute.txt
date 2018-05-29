@@ -1,0 +1,4 @@
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IRepository\bin\Debug\CommonFrame.IRepository.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IRepository\bin\Debug\CommonFrame.IRepository.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IRepository\obj\Debug\CommonFrame.IRepository.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.IRepository\obj\Debug\CommonFrame.IRepository.pdb

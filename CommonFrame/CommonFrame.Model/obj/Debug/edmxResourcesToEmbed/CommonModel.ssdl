@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CommonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--生成过程中发现错误:
+警告 6002: 表/视图“Common.dbo.Common_Members”未定义主键。已推断出该键，并将定义创建为只读的表/视图。-->
+  <EntityType Name="Common_Members">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CommonModelStoreContainer">
+    <EntitySet Name="Common_Members" EntityType="Self.Common_Members" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Common_Members].[Id] AS [Id], 
+    [Common_Members].[UserName] AS [UserName]
+    FROM [dbo].[Common_Members] AS [Common_Members]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

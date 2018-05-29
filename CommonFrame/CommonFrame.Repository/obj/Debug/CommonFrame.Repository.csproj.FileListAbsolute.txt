@@ -1,0 +1,14 @@
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\CommonFrame.Repository.dll.config
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\CommonFrame.Repository.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\CommonFrame.Repository.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\CommonFrame.IRepository.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\CommonFrame.Model.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\EntityFramework.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\CommonFrame.IRepository.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\CommonFrame.Model.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\EntityFramework.xml
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\obj\Debug\CommonFrame.Repository.csprojResolveAssemblyReference.cache
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\obj\Debug\CommonFrame.Repository.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Repository\obj\Debug\CommonFrame.Repository.pdb

@@ -1,0 +1,4 @@
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Common\bin\Debug\CommonFrame.Common.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Common\bin\Debug\CommonFrame.Common.pdb
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Common\obj\Debug\CommonFrame.Common.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Common\obj\Debug\CommonFrame.Common.pdb
