@@ -106,3 +106,10 @@ D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\Autofac.xml
 D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\Autofac.Configuration.xml
 D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\Autofac.Integration.Mvc.xml
 D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\Microsoft.Extensions.Configuration.xml
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\log4net.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\PostSharp.dll
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\log4net.xml
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\PostSharp.xml
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\bin\CommonFrame.Web.pssym
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\obj\Debug\CommonFrame.Web.dll.postsharp
+D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\obj\Debug\PostSharpHost.config

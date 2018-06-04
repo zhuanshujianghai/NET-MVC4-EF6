@@ -1,0 +1,21 @@
+时间:2018-06-01 17:04:31,919 
+级别:INFO 
+类名:CommonFrame.Web.Aop_PostSharp
+文件:D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\PostSharp\Aop_PostSharp.cs 第88行
+日志内容:>>> Entry [1538352116] HomeController/Index
+-----------------------------------------
+
+时间:2018-06-01 17:04:31,993 
+级别:INFO 
+类名:CommonFrame.Web.Aop_PostSharp
+文件:D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\PostSharp\Aop_PostSharp.cs 第97行
+日志内容:>>> Success [1538352116] HomeController/Index
+-----------------------------------------
+
+时间:2018-06-01 17:04:32,012 
+级别:INFO 
+类名:CommonFrame.Web.Aop_PostSharp
+文件:D:\projects\NET\WEB\CommonFrame\CommonFrame.Web\PostSharp\Aop_PostSharp.cs 第106行
+日志内容:<<< Exit [1538352116] HomeController/Index
+-----------------------------------------
+

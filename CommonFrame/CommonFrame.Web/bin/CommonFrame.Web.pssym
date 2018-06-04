@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="105" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="5.0.51.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[CommonFrame.Web]CommonFrame.Web.Aop_PostSharp">
+    <Instance Declaration="#2=M:[CommonFrame.Web]CommonFrame.Web.Controllers.HomeController::Index()" Id="456ce82e09edb401">
+      <Target LinesAvoided="8">
+        <JoinPoint Description="#3=Wrapped by advice(s) OnEntry, OnSuccess, OnException, OnExit" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#4=M:[CommonFrame.Web]CommonFrame.Web.Aop_PostSharp::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5=2" Description="#6=PostSharp estimates that 2 line(s) of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#7=M:[CommonFrame.Web]CommonFrame.Web.Aop_PostSharp::OnSuccess(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5" Description="#6" />
+  <Annotation Target="#8=M:[CommonFrame.Web]CommonFrame.Web.Aop_PostSharp::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5" Description="#6" />
+  <Annotation Target="#9=M:[CommonFrame.Web]CommonFrame.Web.Aop_PostSharp::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5" Description="#6" />
+</Symbols>
